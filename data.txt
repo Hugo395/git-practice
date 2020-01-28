@@ -1,3 +1,4 @@
 Name: Hugo
+O que es: Forte
 Age: 29
 Favorite Color: Blue
